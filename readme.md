@@ -1,7 +1,11 @@
 # BrickPi3で遊んでみた記録
-LEGO Mindstorms NXT component + BrickPi3(Dexter Industries) を使ったロボット遊びの記録。
-NXTのセンサーを活用した自律制御に加え、PS4コントローラを使ったマニュアルコントロールや、Node-REDを介したAmazon Alexaによる音声コントロールも実装。
-言語はPython2.5
+LEGO Mindstorms NXT component + BrickPi3(Dexter Industries) を使ったロボット遊びの記録。  
+NXTのセンサーを活用した自律制御に加え、PS4コントローラを使ったマニュアルコントロールや、Node-REDを介したAmazon Alexaによる音声コントロールも実装。  
+言語はPython2.7（たぶん） 
+   
+なおロボットはもう解体してしまったので、今後の更新はありません。  
+実装の参考にされる場合、コンポーネントの配線設定等は適当に読み替えて自己責任でのご利用をお願いします。
+
 
 --
 
