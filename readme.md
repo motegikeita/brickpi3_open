@@ -11,19 +11,19 @@ by Keita Motegi
 
 ### ハードウェア構成
 
-* シャシー：
+* シャシー：  
 LEGO Mindstorms NXT Bricks
 
-* インテリジェントブロック：
-RaspberryPi 3 Model B+
+* インテリジェントブロック：  
+RaspberryPi 3 Model B+  
 Dexter Industries BrickPi3 Base Kit
 
-* BrickPi3モーターポート：
-A:LEGO Mindstorms NXT インタラクティブサーボモータ （ステアリングコントローラ）
-B:LEGO Mindstorms NXT インタラクティブサーボモータ （エンジン）
+* BrickPi3モーターポート：  
+A: LEGO Mindstorms NXT インタラクティブサーボモータ （ステアリングコントローラ）  
+B: LEGO Mindstorms NXT インタラクティブサーボモータ （エンジン）
 
-* BrickPi3センサーポート：
-1:LEGO Mindstorms NXT 超音波センサー
+* BrickPi3センサーポート：  
+1: LEGO Mindstorms NXT 超音波センサー
 
 
 ### ソフトウェア基盤／開発環境
